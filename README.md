@@ -1,22 +1,7 @@
-<h1 align="center">
-	<img alt="Discord logo" src="https://github.com/eltonlazzarin/twitter-clone-reactjs/blob/master/screenshots/twitter.svg" height="150px" width="150px" />
-</h1>
 
 <h3 align="center">
   Twitter Clone build in ReactJS and TypeScript
 </h3>
-
-<p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/eltonlazzarin/twitter-clone-reactjs">
-
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/eltonlazzarin/twitter-clone-reactjs">
-
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/eltonlazzarin/twitter-clone-reactjs">
-
-  <img alt="GitHub issues" src="https://img.shields.io/github/issues/eltonlazzarin/twitter-clone-reactjs">
-
-  <img alt="GitHub" src="https://img.shields.io/github/license/eltonlazzarin/twitter-clone-reactjs">
-</p>
 
 <p align="center">
   <a href="#-about-the-project">About The Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -25,16 +10,6 @@
   <a href="#-how-to-contribute">How To Contribute</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-license">License</a>
 </p>
-
-## 👨🏻‍💻 About the project
-
-<h1 align="center">
-	<img alt="Project Screenshots" src="https://github.com/eltonlazzarin/twitter-clone-reactjs/blob/master/screenshots/twitterclone.gif" />
-</h1>
-
-<p>Twitter Clone is a project developed in ReactJS in conjunction with TypeScript, where it shows an almost identical interface to the Twitter user profile page, as well as showing the tweets sent by them.
-
-This project includes the Mobile First concept, so it is fully responsive. It is possible to interact by clicking on favorite tweets.</p>
 
 ## 🚀 Technologies
 
@@ -57,9 +32,9 @@ Technologies that I used to develop this frontend app
 **Clone the project and access the folder**
 
 ```bash
-$ git clone https://github.com/eltonlazzarin/twitter-clone-reactjs.git
+$ https://github.com/rpraneeth5225/Twitter-Clone.git
 
-$ cd twitter-clone-reactjs
+$ cd twitter-clone
 ```
 
 **Follow the steps below**
@@ -78,9 +53,9 @@ $ yarn start
 
 ```bash
 # Clone your fork
-$ git clone https://github.com/eltonlazzarin/twitter-clone-reactjs.git
+$ git clone https://github.com/rpraneeth5225/Twitter-Clone.git
 
-$ cd twitter-clone-reactjs
+$ cd twitter-clone
 
 # Create a branch with your feature
 $ git checkout -b your-feature
